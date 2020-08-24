@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="login.salesforce.com"
+  User="MyAccountId"
+  Password=""
+  Directory="services/oauth2/authorize"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="salesforce"
+  OptimizeUpload="false"
+  ChangedOnly="false"
+  ArticleType="Albert__kav"
+  RecordType="0121N000000oEvgQAE"
+  ArticleContentField="RichText__c"
+  DestinationId="V20PDrTNYkO1Pz0S3vw9rA"></CatapultDestination>
